@@ -10,18 +10,19 @@
 
 ## ⚙️ Funcionalidades
 
-- Realiza cálculo do IMC;
+- Realiza a conversão monetária;
 - Interface simples;
-- Fácil de utilizar.
+- Fácil de utilizar;
+- Atualização constante da cotação.
 
 ---
 
 ## 📷 Imagens do projeto
 
 <p align="center" style="display: flex; align-items: end; justify-content: center;">
-  <img alt="NextLevelWeek" title="Imagem - Traffic Light Car" src="assets/screen1.png" width="400px">
+  <img alt="NextLevelWeek" title="Imagem - Conversor Monetário" src="assets/screen1.png" width="400px">
 
-  <img alt="NextLevelWeek" title="Imagem - Traffic Light Car" src="assets/screen2.png" width="400px">
+  <img alt="NextLevelWeek" title="Imagem - Conversor Monetário" src="assets/screen2.png" width="400px">
 </p>
 
 ---
