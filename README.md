@@ -1,5 +1,5 @@
  <h1 align="center">
-    Conversor Monetário.
+    Conversor Monetário
 </h1>
 
 ## 💻 Sobre o projeto
